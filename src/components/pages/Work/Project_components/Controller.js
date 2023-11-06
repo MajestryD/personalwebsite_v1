@@ -8,8 +8,8 @@ export default class Controller extends Component {
     return (
       <div className ="project_all">
         <div className = "project_nav">
-          <Link className= "nav_left" exact to = '/work/appraise'><h3>Appraise.me</h3></Link>
-          <Link className= "nav_right" exact to = '/work/site'><h3>Website</h3></Link>
+          <Link className= "nav_left"  to = '/work/appraise'><h3>Appraise.me</h3></Link>
+          <Link className= "nav_right" to = '/work/site'><h3>Website</h3></Link>
         </div>
 
         <div className = "about_project">

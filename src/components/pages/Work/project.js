@@ -11,9 +11,9 @@ export default class Project extends Component {
           <div className = "works">
           <Routes>
             <Route exact path = '/' element = {<Works/>} />
-            <Route exact path = '/appraise' element = {<Appraise/>}/>  
-            <Route exact path = '/controller' element ={<Controller/>}/>
-            <Route exact path = '/site' element = {<Website/> }/> 
+            <Route path = '/appraise' element = {<Appraise/>}/>  
+            <Route path = '/controller' element ={<Controller/>}/>
+            <Route path = '/site' element = {<Website/> }/> 
           </Routes>
         </div>
 
