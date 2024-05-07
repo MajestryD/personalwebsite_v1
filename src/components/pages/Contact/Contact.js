@@ -31,7 +31,7 @@ export default class contact extends Component {
               <a href = "https://www.facebook.com/dnlpng"> <img loading="lazy"src = {require('./facebook.png')} alt = 'facebook'/> Facebook</a>
               <a href = "https://www.instagram.com/dnlpng/">  <img loading="lazy" src = {require('./instagram.png')} alt = 'art'/> Instagram</a>
               <a href ="https://github.com/MajestryD">  <img loading="lazy" src = {require('./github.png')} alt = 'git'/> GitHub</a>
-              <a href = "www.linkedin.com/in/dpenguin">  <img loading="lazy" src = {require('./linkedIn.png')} alt = 'linkedin'/> LinkedIn</a>
+              <a href = "https://www.linkedin.com/in/dpenguin">  <img loading="lazy" src = {require('./linkedIn.png')} alt = 'linkedin'/> LinkedIn</a>
 
             </div>
 
